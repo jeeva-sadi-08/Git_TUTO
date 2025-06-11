@@ -1,1 +1,1 @@
-creating file2 in the Git_TUTO repo for adding the file from local desk to the git web site
+creating file2 in the Git_TUTO repo for adding the file from local desk to the git web site 
